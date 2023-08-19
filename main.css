@@ -1,0 +1,69 @@
+
+
+body {
+   margin: 2em;
+  
+}
+
+
+
+.image {
+  background-image: url("./img/logo.png");
+  width: 80px;
+  height: 80px;
+  background-size: cover;
+  margin-top: 10px;
+  cursor: pointer;
+
+}
+
+.text {
+  margin-left: 10px;
+  font-size: 40px;
+  font-weight: bold;
+  color:green;
+  /* background-color: darkgray; */
+  /* border-radius: 20px; */
+  /* border: 1px solid black; */
+  margin-top: 20px;
+}
+
+footer {
+    background-color: darkgray;
+    padding: 20px;
+    text-align: left;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+
+ul>li{
+  font-size: 30px;
+  justify-content: left;
+  color: red;
+}
+
+.image1 {
+  background-image: url("./img/Home.png");
+  width: 1200px;
+  height: 600px;
+  background-size: cover;
+  margin-top: 10px;
+}
+
+.image2 {
+  background-image: url("./img/Services.png");
+  width: 1200px;
+  height: 600px;
+  background-size: cover;
+  margin-top: 10px;
+}
+
+.image3 {
+  background-image: url("./img/3.png");
+  width: 1200px;
+  height: 600px;
+  background-size: cover;
+  margin-top: 10px;
+}
+
